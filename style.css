@@ -1,0 +1,89 @@
+/* STYLE SECTIONING TAGS */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+ background-color: #FFEDF7;
+ font-family: Georgia, 'Palatino  Linotype', 'Book Antiqua', serif;
+ text-align: center;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif;
+  text-align: center;
+  color: #780748;
+  font-weight: 1000;
+  font-size: 40px;
+  margin-top: 1.5em;
+  margin-botton: 2em;
+}
+
+h2{
+  font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif;
+  text-align: center;
+  color: #A10A61;
+  margin-top: 1em;
+}
+
+p{
+  font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', serif;
+  text-align: center;
+  margin-bottom: 2em;
+  margin-right: 3em;
+  margin-left: 3em;
+}
+
+main{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#title{
+  font-size: 50px;
+  font-weight: 1200;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+#what{
+  margin-top: 2em;
+}
+
+/* STYLE IMAGES */
+img{
+    border-radius: 15%;
+    border: 5px solid #E864AD;
+    margin: 2em;
+}
+.port{
+  border: 0px;
+}
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: #820048;
+  overflow: hidden;
+  padding: 1em;
+}
+
+li {
+  display: inline;
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+  padding: 1em;
+  
+}
+
+li a:hover {
+  background-color: #DE76AF;
+}
