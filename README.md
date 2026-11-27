@@ -20,7 +20,7 @@ I learned:
 -At first making the images the size I wanted was hard but then I learned there was a 'width' feature in HTML that I could use for my images.
 
 ### Image Attributions
-*All images were taken by me, or created by me on Canva.
+*All images were taken by me (Sanvitti), or created by me on Canva.
 
 ## File Overview
 
